@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color:rgb(34, 32, 32);
+}
+button{
+    background-color:cornflowerblue;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+    border: none;
+    margin-left: 10px;
+}
+input{
+    background-color:rgb(58, 56, 56);
+    height: 30px;
+    border: none;
+    color: white;
+}
+ul li{
+    list-style: none;
+    color: white;
+    display: block;
+    border: 1px solid rgb(163, 163, 163);
+    width: 100px;
+    
+}
+.x-boundlist-selected{
+    background-color: cornflowerblue;
+}
+.container{
+    display: flex;
+    text-align: left;
+}
+.ft{
+    width: 200px;
+    margin: auto;
+    color: white;
+}
