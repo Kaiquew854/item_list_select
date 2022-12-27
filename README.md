@@ -2,6 +2,6 @@
 
 ### Treino rápido de javascript
 
-### Este projeto seleciona o item de uma lista de acordo com o input
+### Este projeto seleciona o item de uma lista de acordo com o input a
 
 ### link para acesso ao projeto: http://kaiquew854.github.io/item_list_select
